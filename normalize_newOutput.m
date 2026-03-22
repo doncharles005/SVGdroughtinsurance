@@ -1,0 +1,1 @@
+ newSITC0_norm = (newSITC0 - mean(newSITC0)) / std(newSITC0);
